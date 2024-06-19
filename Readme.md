@@ -1,28 +1,11 @@
-# DAY 1
+## This 100 Days of Python Challenge
 
-This is day 1 on 100 days with python.
+Every day will learn new concept about python and the code files here.
 
+Each day will update the readme fill.
 
-# Topics
-
- 1. Introduction to Python
- 2. Hello World using python
-
-
-
-## Code
-```
-print("Hello World!")
-```
+ 1. Day 1: Hello World!
+ 2. Day 2: 
+ 
 
 
-```
-a=10
-b=12
-c=a+b
-print(c)
-
-
-## References 
-
- 1. https://www.geeksforgeeks.org/what-is-python/
